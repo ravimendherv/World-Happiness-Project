@@ -29,8 +29,8 @@ SECRET_KEY = environ["SECRET_KEY"]
 DEBUG = False
 
 # ALLOWED_HOSTS = ["world-happiness-index-2021-api.herokuapp.com"]
-ALLOWED_HOSTS = ["world-happiness-index-2021.herokuapp-api.com", "localhost"]
-# ALLOWED_HOSTS = ["*"]
+# ALLOWED_HOSTS = ["world-happiness-index-2021.herokuapp-api.com", "localhost"]
+ALLOWED_HOSTS = ["*"]
 
 
 
