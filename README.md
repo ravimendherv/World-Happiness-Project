@@ -2,7 +2,7 @@
 World-Happiness-Index-2021
 
 # URL ENDPOINT STRUCTURE:  http://<your-url>/v1/country/<country-name>
-# EXAMPLE: http://yd91o.mocklab.io/v1/country/finland
+# EXAMPLE: https://world-happiness-index-2021-api.herokuapp.com/v1/country/finland
 # METHOD: USE SUITABLE HTTP METHOD
 
 Response: 
@@ -19,7 +19,7 @@ Response:
 }
 
 # URL ENDPOINT STRUCTURE:  http://<your-url>/v1/score-range/?from=<score>&to=<score>
-# EXAMPLE: http://yd91o.mocklab.io/v1/score-range/?from=7.5&to=7.8
+# EXAMPLE: https://world-happiness-index-2021-api.herokuapp.com/v1/score-range/?from=7.5&to=7.8
 # METHOD: USE SUITABLE HTTP METHOD
 
 Response: 
