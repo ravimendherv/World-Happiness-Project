@@ -1,4 +1,3 @@
-appdirs==1.4.4
 as==0.1
 asgiref==3.3.4
 async-generator==1.10
