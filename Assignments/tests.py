@@ -7,15 +7,15 @@ class TestAPICountryName (APITestCase):
         self.assertEqual(response.status_code,status.HTTP_200_OK)
 
     def testByCountryName2(self):
-        response = self.client.get("/v1/country/Denmark/")
+        response = self.client.get("/v1/country/denmark/")
         self.assertEqual(response.status_code,status.HTTP_200_OK)
 
     def testByCountryName3(self):
-        response = self.client.get("/v1/country/Switzerland/")
+        response = self.client.get("/v1/country/switzerland/")
         self.assertEqual(response.status_code,status.HTTP_200_OK)
 
     def testByCountryName4(self):
-        response = self.client.get("/v1/country/Iceland/")
+        response = self.client.get("/v1/country/iceland/")
         self.assertEqual(response.status_code,status.HTTP_200_OK)
 
 
