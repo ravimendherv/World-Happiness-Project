@@ -1,0 +1,1194 @@
+{
+    "finland": {
+        "countryName": "Finland",
+        "rank": "1",
+        "ladderScore": "7.842",
+        "healthyLifeExpectancy": "72.000",
+        "generosity": "-0.098",
+        "gdp": "10.775"
+    },
+    "denmark": {
+        "countryName": "Denmark",
+        "rank": "2",
+        "ladderScore": "7.620",
+        "healthyLifeExpectancy": "72.700",
+        "generosity": "0.030",
+        "gdp": "10.933"
+    },
+    "switzerland": {
+        "countryName": "Switzerland",
+        "rank": "3",
+        "ladderScore": "7.571",
+        "healthyLifeExpectancy": "74.400",
+        "generosity": "0.025",
+        "gdp": "11.117"
+    },
+    "iceland": {
+        "countryName": "Iceland",
+        "rank": "4",
+        "ladderScore": "7.554",
+        "healthyLifeExpectancy": "73.000",
+        "generosity": "0.160",
+        "gdp": "10.878"
+    },
+    "netherlands": {
+        "countryName": "Netherlands",
+        "rank": "5",
+        "ladderScore": "7.464",
+        "healthyLifeExpectancy": "72.400",
+        "generosity": "0.175",
+        "gdp": "10.932"
+    },
+    "norway": {
+        "countryName": "Norway",
+        "rank": "6",
+        "ladderScore": "7.392",
+        "healthyLifeExpectancy": "73.300",
+        "generosity": "0.093",
+        "gdp": "11.053"
+    },
+    "sweden": {
+        "countryName": "Sweden",
+        "rank": "7",
+        "ladderScore": "7.363",
+        "healthyLifeExpectancy": "72.700",
+        "generosity": "0.086",
+        "gdp": "10.867"
+    },
+    "luxembourg": {
+        "countryName": "Luxembourg",
+        "rank": "8",
+        "ladderScore": "7.324",
+        "healthyLifeExpectancy": "72.600",
+        "generosity": "-0.034",
+        "gdp": "11.647"
+    },
+    "new zealand": {
+        "countryName": "New Zealand",
+        "rank": "9",
+        "ladderScore": "7.277",
+        "healthyLifeExpectancy": "73.400",
+        "generosity": "0.134",
+        "gdp": "10.643"
+    },
+    "austria": {
+        "countryName": "Austria",
+        "rank": "10",
+        "ladderScore": "7.268",
+        "healthyLifeExpectancy": "73.300",
+        "generosity": "0.042",
+        "gdp": "10.906"
+    },
+    "australia": {
+        "countryName": "Australia",
+        "rank": "11",
+        "ladderScore": "7.183",
+        "healthyLifeExpectancy": "73.900",
+        "generosity": "0.159",
+        "gdp": "10.796"
+    },
+    "israel": {
+        "countryName": "Israel",
+        "rank": "12",
+        "ladderScore": "7.157",
+        "healthyLifeExpectancy": "73.503",
+        "generosity": "0.031",
+        "gdp": "10.575"
+    },
+    "germany": {
+        "countryName": "Germany",
+        "rank": "13",
+        "ladderScore": "7.155",
+        "healthyLifeExpectancy": "72.500",
+        "generosity": "0.011",
+        "gdp": "10.873"
+    },
+    "canada": {
+        "countryName": "Canada",
+        "rank": "14",
+        "ladderScore": "7.103",
+        "healthyLifeExpectancy": "73.800",
+        "generosity": "0.089",
+        "gdp": "10.776"
+    },
+    "ireland": {
+        "countryName": "Ireland",
+        "rank": "15",
+        "ladderScore": "7.085",
+        "healthyLifeExpectancy": "72.400",
+        "generosity": "0.077",
+        "gdp": "11.342"
+    },
+    "costa rica": {
+        "countryName": "Costa Rica",
+        "rank": "16",
+        "ladderScore": "7.069",
+        "healthyLifeExpectancy": "71.400",
+        "generosity": "-0.126",
+        "gdp": "9.880"
+    },
+    "united kingdom": {
+        "countryName": "United Kingdom",
+        "rank": "17",
+        "ladderScore": "7.064",
+        "healthyLifeExpectancy": "72.500",
+        "generosity": "0.233",
+        "gdp": "10.707"
+    },
+    "czech republic": {
+        "countryName": "Czech Republic",
+        "rank": "18",
+        "ladderScore": "6.965",
+        "healthyLifeExpectancy": "70.807",
+        "generosity": "-0.208",
+        "gdp": "10.556"
+    },
+    "united states": {
+        "countryName": "United States",
+        "rank": "19",
+        "ladderScore": "6.951",
+        "healthyLifeExpectancy": "68.200",
+        "generosity": "0.098",
+        "gdp": "11.023"
+    },
+    "belgium": {
+        "countryName": "Belgium",
+        "rank": "20",
+        "ladderScore": "6.834",
+        "healthyLifeExpectancy": "72.199",
+        "generosity": "-0.153",
+        "gdp": "10.823"
+    },
+    "france": {
+        "countryName": "France",
+        "rank": "21",
+        "ladderScore": "6.690",
+        "healthyLifeExpectancy": "74.000",
+        "generosity": "-0.147",
+        "gdp": "10.704"
+    },
+    "bahrain": {
+        "countryName": "Bahrain",
+        "rank": "22",
+        "ladderScore": "6.647",
+        "healthyLifeExpectancy": "69.495",
+        "generosity": "0.089",
+        "gdp": "10.669"
+    },
+    "malta": {
+        "countryName": "Malta",
+        "rank": "23",
+        "ladderScore": "6.602",
+        "healthyLifeExpectancy": "72.200",
+        "generosity": "0.133",
+        "gdp": "10.674"
+    },
+    "taiwan province of china": {
+        "countryName": "Taiwan Province of China",
+        "rank": "24",
+        "ladderScore": "6.584",
+        "healthyLifeExpectancy": "69.600",
+        "generosity": "-0.070",
+        "gdp": "10.871"
+    },
+    "united arab emirates": {
+        "countryName": "United Arab Emirates",
+        "rank": "25",
+        "ladderScore": "6.561",
+        "healthyLifeExpectancy": "67.333",
+        "generosity": "0.074",
+        "gdp": "11.085"
+    },
+    "saudi arabia": {
+        "countryName": "Saudi Arabia",
+        "rank": "26",
+        "ladderScore": "6.494",
+        "healthyLifeExpectancy": "66.603",
+        "generosity": "-0.149",
+        "gdp": "10.743"
+    },
+    "spain": {
+        "countryName": "Spain",
+        "rank": "27",
+        "ladderScore": "6.491",
+        "healthyLifeExpectancy": "74.700",
+        "generosity": "-0.081",
+        "gdp": "10.571"
+    },
+    "italy": {
+        "countryName": "Italy",
+        "rank": "28",
+        "ladderScore": "6.483",
+        "healthyLifeExpectancy": "73.800",
+        "generosity": "-0.084",
+        "gdp": "10.623"
+    },
+    "slovenia": {
+        "countryName": "Slovenia",
+        "rank": "29",
+        "ladderScore": "6.461",
+        "healthyLifeExpectancy": "71.400",
+        "generosity": "-0.101",
+        "gdp": "10.529"
+    },
+    "guatemala": {
+        "countryName": "Guatemala",
+        "rank": "30",
+        "ladderScore": "6.435",
+        "healthyLifeExpectancy": "64.958",
+        "generosity": "-0.038",
+        "gdp": "9.053"
+    },
+    "uruguay": {
+        "countryName": "Uruguay",
+        "rank": "31",
+        "ladderScore": "6.431",
+        "healthyLifeExpectancy": "69.100",
+        "generosity": "-0.092",
+        "gdp": "9.966"
+    },
+    "singapore": {
+        "countryName": "Singapore",
+        "rank": "32",
+        "ladderScore": "6.377",
+        "healthyLifeExpectancy": "76.953",
+        "generosity": "-0.018",
+        "gdp": "11.488"
+    },
+    "kosovo": {
+        "countryName": "Kosovo",
+        "rank": "33",
+        "ladderScore": "6.372",
+        "healthyLifeExpectancy": "63.813",
+        "generosity": "0.257",
+        "gdp": "9.318"
+    },
+    "slovakia": {
+        "countryName": "Slovakia",
+        "rank": "34",
+        "ladderScore": "6.331",
+        "healthyLifeExpectancy": "69.201",
+        "generosity": "-0.124",
+        "gdp": "10.369"
+    },
+    "brazil": {
+        "countryName": "Brazil",
+        "rank": "35",
+        "ladderScore": "6.330",
+        "healthyLifeExpectancy": "66.601",
+        "generosity": "-0.071",
+        "gdp": "9.577"
+    },
+    "mexico": {
+        "countryName": "Mexico",
+        "rank": "36",
+        "ladderScore": "6.317",
+        "healthyLifeExpectancy": "68.597",
+        "generosity": "-0.147",
+        "gdp": "9.859"
+    },
+    "jamaica": {
+        "countryName": "Jamaica",
+        "rank": "37",
+        "ladderScore": "6.309",
+        "healthyLifeExpectancy": "67.500",
+        "generosity": "-0.137",
+        "gdp": "9.186"
+    },
+    "lithuania": {
+        "countryName": "Lithuania",
+        "rank": "38",
+        "ladderScore": "6.255",
+        "healthyLifeExpectancy": "67.906",
+        "generosity": "-0.203",
+        "gdp": "10.499"
+    },
+    "cyprus": {
+        "countryName": "Cyprus",
+        "rank": "39",
+        "ladderScore": "6.223",
+        "healthyLifeExpectancy": "73.898",
+        "generosity": "-0.015",
+        "gdp": "10.576"
+    },
+    "estonia": {
+        "countryName": "Estonia",
+        "rank": "40",
+        "ladderScore": "6.189",
+        "healthyLifeExpectancy": "68.800",
+        "generosity": "-0.106",
+        "gdp": "10.481"
+    },
+    "panama": {
+        "countryName": "Panama",
+        "rank": "41",
+        "ladderScore": "6.180",
+        "healthyLifeExpectancy": "69.652",
+        "generosity": "-0.166",
+        "gdp": "10.350"
+    },
+    "uzbekistan": {
+        "countryName": "Uzbekistan",
+        "rank": "42",
+        "ladderScore": "6.179",
+        "healthyLifeExpectancy": "65.255",
+        "generosity": "0.311",
+        "gdp": "8.836"
+    },
+    "chile": {
+        "countryName": "Chile",
+        "rank": "43",
+        "ladderScore": "6.172",
+        "healthyLifeExpectancy": "70.000",
+        "generosity": "-0.044",
+        "gdp": "10.071"
+    },
+    "poland": {
+        "countryName": "Poland",
+        "rank": "44",
+        "ladderScore": "6.166",
+        "healthyLifeExpectancy": "69.702",
+        "generosity": "-0.165",
+        "gdp": "10.382"
+    },
+    "kazakhstan": {
+        "countryName": "Kazakhstan",
+        "rank": "45",
+        "ladderScore": "6.152",
+        "healthyLifeExpectancy": "65.200",
+        "generosity": "-0.069",
+        "gdp": "10.155"
+    },
+    "romania": {
+        "countryName": "Romania",
+        "rank": "46",
+        "ladderScore": "6.140",
+        "healthyLifeExpectancy": "67.355",
+        "generosity": "-0.219",
+        "gdp": "10.284"
+    },
+    "kuwait": {
+        "countryName": "Kuwait",
+        "rank": "47",
+        "ladderScore": "6.106",
+        "healthyLifeExpectancy": "66.900",
+        "generosity": "-0.104",
+        "gdp": "10.817"
+    },
+    "serbia": {
+        "countryName": "Serbia",
+        "rank": "48",
+        "ladderScore": "6.078",
+        "healthyLifeExpectancy": "68.600",
+        "generosity": "0.002",
+        "gdp": "9.787"
+    },
+    "el salvador": {
+        "countryName": "El Salvador",
+        "rank": "49",
+        "ladderScore": "6.061",
+        "healthyLifeExpectancy": "66.402",
+        "generosity": "-0.110",
+        "gdp": "9.054"
+    },
+    "mauritius": {
+        "countryName": "Mauritius",
+        "rank": "50",
+        "ladderScore": "6.049",
+        "healthyLifeExpectancy": "66.701",
+        "generosity": "-0.054",
+        "gdp": "10.008"
+    },
+    "latvia": {
+        "countryName": "Latvia",
+        "rank": "51",
+        "ladderScore": "6.032",
+        "healthyLifeExpectancy": "67.100",
+        "generosity": "-0.162",
+        "gdp": "10.315"
+    },
+    "colombia": {
+        "countryName": "Colombia",
+        "rank": "52",
+        "ladderScore": "6.012",
+        "healthyLifeExpectancy": "68.001",
+        "generosity": "-0.135",
+        "gdp": "9.557"
+    },
+    "hungary": {
+        "countryName": "Hungary",
+        "rank": "53",
+        "ladderScore": "5.992",
+        "healthyLifeExpectancy": "68.000",
+        "generosity": "-0.186",
+        "gdp": "10.358"
+    },
+    "thailand": {
+        "countryName": "Thailand",
+        "rank": "54",
+        "ladderScore": "5.985",
+        "healthyLifeExpectancy": "67.401",
+        "generosity": "0.287",
+        "gdp": "9.805"
+    },
+    "nicaragua": {
+        "countryName": "Nicaragua",
+        "rank": "55",
+        "ladderScore": "5.972",
+        "healthyLifeExpectancy": "67.657",
+        "generosity": "0.020",
+        "gdp": "8.620"
+    },
+    "japan": {
+        "countryName": "Japan",
+        "rank": "56",
+        "ladderScore": "5.940",
+        "healthyLifeExpectancy": "75.100",
+        "generosity": "-0.258",
+        "gdp": "10.611"
+    },
+    "argentina": {
+        "countryName": "Argentina",
+        "rank": "57",
+        "ladderScore": "5.929",
+        "healthyLifeExpectancy": "69.000",
+        "generosity": "-0.182",
+        "gdp": "9.962"
+    },
+    "portugal": {
+        "countryName": "Portugal",
+        "rank": "58",
+        "ladderScore": "5.929",
+        "healthyLifeExpectancy": "72.600",
+        "generosity": "-0.244",
+        "gdp": "10.421"
+    },
+    "honduras": {
+        "countryName": "Honduras",
+        "rank": "59",
+        "ladderScore": "5.919",
+        "healthyLifeExpectancy": "67.300",
+        "generosity": "0.081",
+        "gdp": "8.648"
+    },
+    "croatia": {
+        "countryName": "Croatia",
+        "rank": "60",
+        "ladderScore": "5.882",
+        "healthyLifeExpectancy": "70.799",
+        "generosity": "-0.118",
+        "gdp": "10.217"
+    },
+    "philippines": {
+        "countryName": "Philippines",
+        "rank": "61",
+        "ladderScore": "5.880",
+        "healthyLifeExpectancy": "62.000",
+        "generosity": "-0.097",
+        "gdp": "9.076"
+    },
+    "south korea": {
+        "countryName": "South Korea",
+        "rank": "62",
+        "ladderScore": "5.845",
+        "healthyLifeExpectancy": "73.900",
+        "generosity": "-0.083",
+        "gdp": "10.651"
+    },
+    "peru": {
+        "countryName": "Peru",
+        "rank": "63",
+        "ladderScore": "5.840",
+        "healthyLifeExpectancy": "68.250",
+        "generosity": "-0.154",
+        "gdp": "9.458"
+    },
+    "bosnia and herzegovina": {
+        "countryName": "Bosnia and Herzegovina",
+        "rank": "64",
+        "ladderScore": "5.813",
+        "healthyLifeExpectancy": "68.098",
+        "generosity": "0.113",
+        "gdp": "9.590"
+    },
+    "moldova": {
+        "countryName": "Moldova",
+        "rank": "65",
+        "ladderScore": "5.766",
+        "healthyLifeExpectancy": "65.699",
+        "generosity": "-0.079",
+        "gdp": "9.454"
+    },
+    "ecuador": {
+        "countryName": "Ecuador",
+        "rank": "66",
+        "ladderScore": "5.764",
+        "healthyLifeExpectancy": "68.800",
+        "generosity": "-0.124",
+        "gdp": "9.313"
+    },
+    "kyrgyzstan": {
+        "countryName": "Kyrgyzstan",
+        "rank": "67",
+        "ladderScore": "5.744",
+        "healthyLifeExpectancy": "64.401",
+        "generosity": "0.119",
+        "gdp": "8.538"
+    },
+    "greece": {
+        "countryName": "Greece",
+        "rank": "68",
+        "ladderScore": "5.723",
+        "healthyLifeExpectancy": "72.600",
+        "generosity": "-0.288",
+        "gdp": "10.279"
+    },
+    "bolivia": {
+        "countryName": "Bolivia",
+        "rank": "69",
+        "ladderScore": "5.716",
+        "healthyLifeExpectancy": "63.901",
+        "generosity": "-0.077",
+        "gdp": "9.046"
+    },
+    "mongolia": {
+        "countryName": "Mongolia",
+        "rank": "70",
+        "ladderScore": "5.677",
+        "healthyLifeExpectancy": "62.500",
+        "generosity": "0.116",
+        "gdp": "9.400"
+    },
+    "paraguay": {
+        "countryName": "Paraguay",
+        "rank": "71",
+        "ladderScore": "5.653",
+        "healthyLifeExpectancy": "65.900",
+        "generosity": "0.028",
+        "gdp": "9.448"
+    },
+    "montenegro": {
+        "countryName": "Montenegro",
+        "rank": "72",
+        "ladderScore": "5.581",
+        "healthyLifeExpectancy": "68.699",
+        "generosity": "-0.034",
+        "gdp": "9.940"
+    },
+    "dominican republic": {
+        "countryName": "Dominican Republic",
+        "rank": "73",
+        "ladderScore": "5.545",
+        "healthyLifeExpectancy": "66.102",
+        "generosity": "-0.133",
+        "gdp": "9.802"
+    },
+    "north cyprus": {
+        "countryName": "North Cyprus",
+        "rank": "74",
+        "ladderScore": "5.536",
+        "healthyLifeExpectancy": "73.898",
+        "generosity": "0.012",
+        "gdp": "10.576"
+    },
+    "belarus": {
+        "countryName": "Belarus",
+        "rank": "75",
+        "ladderScore": "5.534",
+        "healthyLifeExpectancy": "66.253",
+        "generosity": "-0.180",
+        "gdp": "9.853"
+    },
+    "russia": {
+        "countryName": "Russia",
+        "rank": "76",
+        "ladderScore": "5.477",
+        "healthyLifeExpectancy": "64.703",
+        "generosity": "-0.111",
+        "gdp": "10.189"
+    },
+    "hong kong s.a.r. of china": {
+        "countryName": "Hong Kong S.A.R. of China",
+        "rank": "77",
+        "ladderScore": "5.477",
+        "healthyLifeExpectancy": "76.820",
+        "generosity": "0.067",
+        "gdp": "11.000"
+    },
+    "tajikistan": {
+        "countryName": "Tajikistan",
+        "rank": "78",
+        "ladderScore": "5.466",
+        "healthyLifeExpectancy": "64.281",
+        "generosity": "-0.056",
+        "gdp": "8.091"
+    },
+    "vietnam": {
+        "countryName": "Vietnam",
+        "rank": "79",
+        "ladderScore": "5.411",
+        "healthyLifeExpectancy": "68.034",
+        "generosity": "-0.098",
+        "gdp": "8.973"
+    },
+    "libya": {
+        "countryName": "Libya",
+        "rank": "80",
+        "ladderScore": "5.410",
+        "healthyLifeExpectancy": "62.300",
+        "generosity": "-0.087",
+        "gdp": "9.622"
+    },
+    "malaysia": {
+        "countryName": "Malaysia",
+        "rank": "81",
+        "ladderScore": "5.384",
+        "healthyLifeExpectancy": "67.102",
+        "generosity": "0.125",
+        "gdp": "10.238"
+    },
+    "indonesia": {
+        "countryName": "Indonesia",
+        "rank": "82",
+        "ladderScore": "5.345",
+        "healthyLifeExpectancy": "62.236",
+        "generosity": "0.542",
+        "gdp": "9.365"
+    },
+    "congo (brazzaville)": {
+        "countryName": "Congo (Brazzaville)",
+        "rank": "83",
+        "ladderScore": "5.342",
+        "healthyLifeExpectancy": "58.221",
+        "generosity": "-0.068",
+        "gdp": "8.117"
+    },
+    "china": {
+        "countryName": "China",
+        "rank": "84",
+        "ladderScore": "5.339",
+        "healthyLifeExpectancy": "69.593",
+        "generosity": "-0.146",
+        "gdp": "9.673"
+    },
+    "ivory coast": {
+        "countryName": "Ivory Coast",
+        "rank": "85",
+        "ladderScore": "5.306",
+        "healthyLifeExpectancy": "50.114",
+        "generosity": "-0.016",
+        "gdp": "8.551"
+    },
+    "armenia": {
+        "countryName": "Armenia",
+        "rank": "86",
+        "ladderScore": "5.283",
+        "healthyLifeExpectancy": "67.055",
+        "generosity": "-0.168",
+        "gdp": "9.487"
+    },
+    "nepal": {
+        "countryName": "Nepal",
+        "rank": "87",
+        "ladderScore": "5.269",
+        "healthyLifeExpectancy": "64.233",
+        "generosity": "0.152",
+        "gdp": "8.120"
+    },
+    "bulgaria": {
+        "countryName": "Bulgaria",
+        "rank": "88",
+        "ladderScore": "5.266",
+        "healthyLifeExpectancy": "67.000",
+        "generosity": "-0.096",
+        "gdp": "10.016"
+    },
+    "maldives": {
+        "countryName": "Maldives",
+        "rank": "89",
+        "ladderScore": "5.198",
+        "healthyLifeExpectancy": "70.600",
+        "generosity": "0.024",
+        "gdp": "9.826"
+    },
+    "azerbaijan": {
+        "countryName": "Azerbaijan",
+        "rank": "90",
+        "ladderScore": "5.171",
+        "healthyLifeExpectancy": "65.656",
+        "generosity": "-0.223",
+        "gdp": "9.569"
+    },
+    "cameroon": {
+        "countryName": "Cameroon",
+        "rank": "91",
+        "ladderScore": "5.142",
+        "healthyLifeExpectancy": "53.515",
+        "generosity": "0.026",
+        "gdp": "8.189"
+    },
+    "senegal": {
+        "countryName": "Senegal",
+        "rank": "92",
+        "ladderScore": "5.132",
+        "healthyLifeExpectancy": "59.802",
+        "generosity": "-0.046",
+        "gdp": "8.118"
+    },
+    "albania": {
+        "countryName": "Albania",
+        "rank": "93",
+        "ladderScore": "5.117",
+        "healthyLifeExpectancy": "68.999",
+        "generosity": "-0.030",
+        "gdp": "9.520"
+    },
+    "north macedonia": {
+        "countryName": "North Macedonia",
+        "rank": "94",
+        "ladderScore": "5.101",
+        "healthyLifeExpectancy": "65.474",
+        "generosity": "0.038",
+        "gdp": "9.693"
+    },
+    "ghana": {
+        "countryName": "Ghana",
+        "rank": "95",
+        "ladderScore": "5.088",
+        "healthyLifeExpectancy": "57.586",
+        "generosity": "0.123",
+        "gdp": "8.580"
+    },
+    "niger": {
+        "countryName": "Niger",
+        "rank": "96",
+        "ladderScore": "5.074",
+        "healthyLifeExpectancy": "53.780",
+        "generosity": "0.018",
+        "gdp": "7.098"
+    },
+    "turkmenistan": {
+        "countryName": "Turkmenistan",
+        "rank": "97",
+        "ladderScore": "5.066",
+        "healthyLifeExpectancy": "62.409",
+        "generosity": "0.273",
+        "gdp": "9.629"
+    },
+    "gambia": {
+        "countryName": "Gambia",
+        "rank": "98",
+        "ladderScore": "5.051",
+        "healthyLifeExpectancy": "55.160",
+        "generosity": "0.424",
+        "gdp": "7.686"
+    },
+    "benin": {
+        "countryName": "Benin",
+        "rank": "99",
+        "ladderScore": "5.045",
+        "healthyLifeExpectancy": "54.713",
+        "generosity": "-0.034",
+        "gdp": "8.087"
+    },
+    "laos": {
+        "countryName": "Laos",
+        "rank": "100",
+        "ladderScore": "5.030",
+        "healthyLifeExpectancy": "58.968",
+        "generosity": "0.123",
+        "gdp": "8.947"
+    },
+    "bangladesh": {
+        "countryName": "Bangladesh",
+        "rank": "101",
+        "ladderScore": "5.025",
+        "healthyLifeExpectancy": "64.800",
+        "generosity": "-0.041",
+        "gdp": "8.454"
+    },
+    "guinea": {
+        "countryName": "Guinea",
+        "rank": "102",
+        "ladderScore": "4.984",
+        "healthyLifeExpectancy": "55.008",
+        "generosity": "0.095",
+        "gdp": "7.838"
+    },
+    "south africa": {
+        "countryName": "South Africa",
+        "rank": "103",
+        "ladderScore": "4.956",
+        "healthyLifeExpectancy": "56.904",
+        "generosity": "-0.067",
+        "gdp": "9.403"
+    },
+    "turkey": {
+        "countryName": "Turkey",
+        "rank": "104",
+        "ladderScore": "4.948",
+        "healthyLifeExpectancy": "67.199",
+        "generosity": "-0.139",
+        "gdp": "10.240"
+    },
+    "pakistan": {
+        "countryName": "Pakistan",
+        "rank": "105",
+        "ladderScore": "4.934",
+        "healthyLifeExpectancy": "58.709",
+        "generosity": "0.098",
+        "gdp": "8.458"
+    },
+    "morocco": {
+        "countryName": "Morocco",
+        "rank": "106",
+        "ladderScore": "4.918",
+        "healthyLifeExpectancy": "66.208",
+        "generosity": "-0.236",
+        "gdp": "8.903"
+    },
+    "venezuela": {
+        "countryName": "Venezuela",
+        "rank": "107",
+        "ladderScore": "4.892",
+        "healthyLifeExpectancy": "66.700",
+        "generosity": "-0.169",
+        "gdp": "9.073"
+    },
+    "georgia": {
+        "countryName": "Georgia",
+        "rank": "108",
+        "ladderScore": "4.891",
+        "healthyLifeExpectancy": "64.300",
+        "generosity": "-0.238",
+        "gdp": "9.585"
+    },
+    "algeria": {
+        "countryName": "Algeria",
+        "rank": "109",
+        "ladderScore": "4.887",
+        "healthyLifeExpectancy": "66.005",
+        "generosity": "-0.067",
+        "gdp": "9.342"
+    },
+    "ukraine": {
+        "countryName": "Ukraine",
+        "rank": "110",
+        "ladderScore": "4.875",
+        "healthyLifeExpectancy": "64.902",
+        "generosity": "-0.011",
+        "gdp": "9.436"
+    },
+    "iraq": {
+        "countryName": "Iraq",
+        "rank": "111",
+        "ladderScore": "4.854",
+        "healthyLifeExpectancy": "60.583",
+        "generosity": "-0.053",
+        "gdp": "9.240"
+    },
+    "gabon": {
+        "countryName": "Gabon",
+        "rank": "112",
+        "ladderScore": "4.852",
+        "healthyLifeExpectancy": "59.962",
+        "generosity": "-0.200",
+        "gdp": "9.603"
+    },
+    "burkina faso": {
+        "countryName": "Burkina Faso",
+        "rank": "113",
+        "ladderScore": "4.834",
+        "healthyLifeExpectancy": "54.151",
+        "generosity": "-0.009",
+        "gdp": "7.678"
+    },
+    "cambodia": {
+        "countryName": "Cambodia",
+        "rank": "114",
+        "ladderScore": "4.830",
+        "healthyLifeExpectancy": "62.000",
+        "generosity": "0.034",
+        "gdp": "8.360"
+    },
+    "mozambique": {
+        "countryName": "Mozambique",
+        "rank": "115",
+        "ladderScore": "4.794",
+        "healthyLifeExpectancy": "54.706",
+        "generosity": "0.061",
+        "gdp": "7.158"
+    },
+    "nigeria": {
+        "countryName": "Nigeria",
+        "rank": "116",
+        "ladderScore": "4.759",
+        "healthyLifeExpectancy": "50.102",
+        "generosity": "0.037",
+        "gdp": "8.533"
+    },
+    "mali": {
+        "countryName": "Mali",
+        "rank": "117",
+        "ladderScore": "4.723",
+        "healthyLifeExpectancy": "51.969",
+        "generosity": "-0.036",
+        "gdp": "7.744"
+    },
+    "iran": {
+        "countryName": "Iran",
+        "rank": "118",
+        "ladderScore": "4.721",
+        "healthyLifeExpectancy": "66.300",
+        "generosity": "0.218",
+        "gdp": "9.584"
+    },
+    "uganda": {
+        "countryName": "Uganda",
+        "rank": "119",
+        "ladderScore": "4.636",
+        "healthyLifeExpectancy": "56.101",
+        "generosity": "0.122",
+        "gdp": "7.677"
+    },
+    "liberia": {
+        "countryName": "Liberia",
+        "rank": "120",
+        "ladderScore": "4.625",
+        "healthyLifeExpectancy": "56.498",
+        "generosity": "0.050",
+        "gdp": "7.288"
+    },
+    "kenya": {
+        "countryName": "Kenya",
+        "rank": "121",
+        "ladderScore": "4.607",
+        "healthyLifeExpectancy": "60.704",
+        "generosity": "0.287",
+        "gdp": "8.361"
+    },
+    "tunisia": {
+        "countryName": "Tunisia",
+        "rank": "122",
+        "ladderScore": "4.596",
+        "healthyLifeExpectancy": "67.201",
+        "generosity": "-0.201",
+        "gdp": "9.266"
+    },
+    "lebanon": {
+        "countryName": "Lebanon",
+        "rank": "123",
+        "ladderScore": "4.584",
+        "healthyLifeExpectancy": "67.355",
+        "generosity": "-0.073",
+        "gdp": "9.626"
+    },
+    "namibia": {
+        "countryName": "Namibia",
+        "rank": "124",
+        "ladderScore": "4.574",
+        "healthyLifeExpectancy": "56.799",
+        "generosity": "-0.149",
+        "gdp": "9.161"
+    },
+    "palestinian territories": {
+        "countryName": "Palestinian Territories",
+        "rank": "125",
+        "ladderScore": "4.517",
+        "healthyLifeExpectancy": "62.250",
+        "generosity": "-0.163",
+        "gdp": "8.485"
+    },
+    "myanmar": {
+        "countryName": "Myanmar",
+        "rank": "126",
+        "ladderScore": "4.426",
+        "healthyLifeExpectancy": "59.302",
+        "generosity": "0.509",
+        "gdp": "8.541"
+    },
+    "jordan": {
+        "countryName": "Jordan",
+        "rank": "127",
+        "ladderScore": "4.395",
+        "healthyLifeExpectancy": "67.000",
+        "generosity": "-0.167",
+        "gdp": "9.182"
+    },
+    "chad": {
+        "countryName": "Chad",
+        "rank": "128",
+        "ladderScore": "4.355",
+        "healthyLifeExpectancy": "48.478",
+        "generosity": "0.041",
+        "gdp": "7.364"
+    },
+    "sri lanka": {
+        "countryName": "Sri Lanka",
+        "rank": "129",
+        "ladderScore": "4.325",
+        "healthyLifeExpectancy": "67.299",
+        "generosity": "0.079",
+        "gdp": "9.470"
+    },
+    "swaziland": {
+        "countryName": "Swaziland",
+        "rank": "130",
+        "ladderScore": "4.308",
+        "healthyLifeExpectancy": "50.833",
+        "generosity": "-0.185",
+        "gdp": "9.065"
+    },
+    "comoros": {
+        "countryName": "Comoros",
+        "rank": "131",
+        "ladderScore": "4.289",
+        "healthyLifeExpectancy": "57.349",
+        "generosity": "0.082",
+        "gdp": "8.031"
+    },
+    "egypt": {
+        "countryName": "Egypt",
+        "rank": "132",
+        "ladderScore": "4.283",
+        "healthyLifeExpectancy": "61.998",
+        "generosity": "-0.182",
+        "gdp": "9.367"
+    },
+    "ethiopia": {
+        "countryName": "Ethiopia",
+        "rank": "133",
+        "ladderScore": "4.275",
+        "healthyLifeExpectancy": "59.000",
+        "generosity": "0.082",
+        "gdp": "7.694"
+    },
+    "mauritania": {
+        "countryName": "Mauritania",
+        "rank": "134",
+        "ladderScore": "4.227",
+        "healthyLifeExpectancy": "57.161",
+        "generosity": "-0.106",
+        "gdp": "8.542"
+    },
+    "madagascar": {
+        "countryName": "Madagascar",
+        "rank": "135",
+        "ladderScore": "4.208",
+        "healthyLifeExpectancy": "59.305",
+        "generosity": "-0.005",
+        "gdp": "7.396"
+    },
+    "togo": {
+        "countryName": "Togo",
+        "rank": "136",
+        "ladderScore": "4.107",
+        "healthyLifeExpectancy": "54.914",
+        "generosity": "0.032",
+        "gdp": "7.362"
+    },
+    "zambia": {
+        "countryName": "Zambia",
+        "rank": "137",
+        "ladderScore": "4.073",
+        "healthyLifeExpectancy": "55.809",
+        "generosity": "0.061",
+        "gdp": "8.145"
+    },
+    "sierra leone": {
+        "countryName": "Sierra Leone",
+        "rank": "138",
+        "ladderScore": "3.849",
+        "healthyLifeExpectancy": "51.651",
+        "generosity": "0.084",
+        "gdp": "7.434"
+    },
+    "india": {
+        "countryName": "India",
+        "rank": "139",
+        "ladderScore": "3.819",
+        "healthyLifeExpectancy": "60.633",
+        "generosity": "0.089",
+        "gdp": "8.755"
+    },
+    "burundi": {
+        "countryName": "Burundi",
+        "rank": "140",
+        "ladderScore": "3.775",
+        "healthyLifeExpectancy": "53.400",
+        "generosity": "-0.024",
+        "gdp": "6.635"
+    },
+    "yemen": {
+        "countryName": "Yemen",
+        "rank": "141",
+        "ladderScore": "3.658",
+        "healthyLifeExpectancy": "57.122",
+        "generosity": "-0.147",
+        "gdp": "7.578"
+    },
+    "tanzania": {
+        "countryName": "Tanzania",
+        "rank": "142",
+        "ladderScore": "3.623",
+        "healthyLifeExpectancy": "57.999",
+        "generosity": "0.183",
+        "gdp": "7.876"
+    },
+    "haiti": {
+        "countryName": "Haiti",
+        "rank": "143",
+        "ladderScore": "3.615",
+        "healthyLifeExpectancy": "55.700",
+        "generosity": "0.422",
+        "gdp": "7.477"
+    },
+    "malawi": {
+        "countryName": "Malawi",
+        "rank": "144",
+        "ladderScore": "3.600",
+        "healthyLifeExpectancy": "57.948",
+        "generosity": "0.038",
+        "gdp": "6.958"
+    },
+    "lesotho": {
+        "countryName": "Lesotho",
+        "rank": "145",
+        "ladderScore": "3.512",
+        "healthyLifeExpectancy": "48.700",
+        "generosity": "-0.131",
+        "gdp": "7.926"
+    },
+    "botswana": {
+        "countryName": "Botswana",
+        "rank": "146",
+        "ladderScore": "3.467",
+        "healthyLifeExpectancy": "59.269",
+        "generosity": "-0.246",
+        "gdp": "9.782"
+    },
+    "rwanda": {
+        "countryName": "Rwanda",
+        "rank": "147",
+        "ladderScore": "3.415",
+        "healthyLifeExpectancy": "61.400",
+        "generosity": "0.061",
+        "gdp": "7.676"
+    },
+    "zimbabwe": {
+        "countryName": "Zimbabwe",
+        "rank": "148",
+        "ladderScore": "3.145",
+        "healthyLifeExpectancy": "56.201",
+        "generosity": "-0.047",
+        "gdp": "7.943"
+    },
+    "afghanistan": {
+        "countryName": "Afghanistan",
+        "rank": "149",
+        "ladderScore": "2.523",
+        "healthyLifeExpectancy": "52.493",
+        "generosity": "-0.102",
+        "gdp": "7.695"
+    }
+}
