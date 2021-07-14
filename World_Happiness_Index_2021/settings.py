@@ -21,7 +21,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-# SECRET_KEY = 'fl_(v8+(u-p!$hy-w++dxjmsni*&y&xhi)j8a-h*neo2%jgv@!'
+'
 SECRET_KEY = environ["SECRET_KEY"]
 
 
@@ -29,7 +29,7 @@ SECRET_KEY = environ["SECRET_KEY"]
 DEBUG = False
 
 # ALLOWED_HOSTS = ["world-happiness-index-2021-api.herokuapp.com"]
-ALLOWED_HOSTS = ["world-happiness-index-2021-api.herokuapp.com", "localhost"]
+ALLOWED_HOSTS = ["world-happiness-index-2021.herokuapp.com", "localhost"]
 # ALLOWED_HOSTS = ["*"]
 
 
